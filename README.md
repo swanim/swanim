@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @swanim
+<!--- 👋 Hi, I’m @swanim
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+-->
 <!---
 swanim/swanim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -15,3 +15,5 @@ You can click the Preview link to take a look at your changes.
 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=eternalunscripted)](https://solved.ac/eternalunscripted)
 
 ![swanim's GitHub stats](https://github-readme-stats.vercel.app/api?username=swanim&show_icons=true&theme=radical)
+
+https://img.shields.io/twitter/url?style=for-the-badge&url=blog
