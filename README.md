@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=eternalunscripted)](https://solved.ac/eternalunscripted)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swanim&show_icons=true&theme=radical)
+![swanim's GitHub stats](https://github-readme-stats.vercel.app/api?username=swanim&show_icons=true&theme=radical)
