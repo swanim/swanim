@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-### Languages & Tools: 
+## 🔧 Tech Stack 🔧
 
 **OS**
 ><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
@@ -25,9 +25,11 @@ You can click the Preview link to take a look at your changes.
 
 **Languages**
 >
-><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
 ><img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-01B3E3?style=flat-square&logo=kotlin&logoColor=white" />
 ><img alt="python" src="https://img.shields.io/badge/-Python-5881D8?style=flat-square&logo=python&logoColor=white" />
+><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> 
+><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 
 
 **IDE**
