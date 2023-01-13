@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-01B3E3?style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/-Python-5881D8?style=flat-square&logo=python&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
+  <img alt="c++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
   
 </p>
 
