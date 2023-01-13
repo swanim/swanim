@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-
+interest : Embedded System, Android
 
 ## 🔧 Tech Stack 🔧
 
@@ -29,13 +29,12 @@ You can click the Preview link to take a look at your changes.
 ><img alt="python" src="https://img.shields.io/badge/-Python-5881D8?style=flat-square&logo=python&logoColor=white" />
 ><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> 
 ><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 
 
 **IDE**
 ><img src="https://img.shields.io/badge/Visual-Studio-5C2D91?style=for-the-badge&logo=Visual-Studio&logoColor=white">
 
-<p>🏆 Baekjoon solved rank 🏆</p>
+### 🏆 Baekjoon solved rank 🏆
 
 [![LSolveRank](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=nation)](https://solved.ac/profile/nation)
 
