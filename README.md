@@ -35,9 +35,7 @@ You can click the Preview link to take a look at your changes.
 
 <p>🏆 Baekjoon solved rank 🏆</p>
 
-![Solved.ac](http://mazassumnida.wtf/api/pastel/generate_badge?boj=nation)(https://solved.ac/nation)
-
-<!--[![LSolveRank](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=nation)](https://solved.ac/profile/nation)-->
+[![LSolveRank](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=nation)](https://solved.ac/profile/nation)
 
 ![swanim's GitHub stats](https://github-readme-stats.vercel.app/api?username=swanim&show_icons=true&theme=radical)
 
