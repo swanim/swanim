@@ -15,7 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-interest : Embedded System, Android
 
 ## 🔧 Tech Stack 🔧
 
