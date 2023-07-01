@@ -1,7 +1,3 @@
-<h1 align="center" style="margin-top:0"> Jumi </h1>
-
-<br/>
-
 <h3 align="center" style="margin-top:0"> About Me 🌱</h3>
 <p align="center">Hi there! 👋🏻 대화하고 싶은 개발자 박주미입니다.</p>
 <p align="center">소통을 통해 같이 성장하는 것을 지향합니다.</p>
